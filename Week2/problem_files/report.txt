@@ -1,0 +1,3 @@
+Alpha beta pruning took around 40 seconds to complete. The number of nodes it visited was 6373652.
+In mini-max algorithm when checking for the position in dictionary, I even checked for different permutations of board positions which represent the same situation.
+
